@@ -21,9 +21,9 @@
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="VI_sensor_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/VI_sensor_Dashboard.vi"/>
-		<Item Name="VI_Info_do_Robô_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/Não sei oq é isso -João/VI_Info_do_Robô_Dashboard.vi"/>
-		<Item Name="VI_Info_da_Quadra_Dasboard.vi" Type="VI" URL="../VIs_de_Referência/Não sei oq é isso -João/VI_Info_da_Quadra_Dasboard.vi"/>
-		<Item Name="VI_Info_do_Intake_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/Não sei oq é isso -João/VI_Info_do_Intake_Dashboard.vi"/>
+		<Item Name="VI_Info_do_Robô_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/VI_Info_do_Robô_Dashboard.vi"/>
+		<Item Name="VI_Info_da_Quadra_Dasboard.vi" Type="VI" URL="../VIs_de_Referência/VI_Info_da_Quadra_Dasboard.vi"/>
+		<Item Name="VI_Info_do_Intake_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/VI_Info_do_Intake_Dashboard.vi"/>
 		<Item Name="Control 2.ctl" Type="VI" URL="../VIs_de_Referência/Não sei oq é isso -João/Control 2.ctl"/>
 		<Item Name="VI_botões_Dashboard.vi" Type="VI" URL="../VIs_de_Referência/VI_botões_Dashboard.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
